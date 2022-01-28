@@ -3,9 +3,9 @@ author:
   name:  
   email:  
 description: > # this means to ignore newlines until "show_excerpts:"
-  The Interdisciplinary Publishing Lab at UWE Bristol.
+  Interdisciplinary Publishing Lab, UWE Bristol, Bower Ashton Campus OC002, Kennel Lodge Road. Bristol, BS3 2JT.
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
