@@ -1,7 +1,7 @@
 title: Interdisciplinary Publishing Lab
 author:
   name:  
-  email:  
+  email: tom.abba@uwe.ac.uk  
 description: > # this means to ignore newlines until "show_excerpts:"
   Interdisciplinary Publishing Lab, UWE Bristol, Bower Ashton Campus OC002, Kennel Lodge Road. Bristol, BS3 2JT.
 
@@ -20,7 +20,7 @@ minima:
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: uwepublishinglab
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
