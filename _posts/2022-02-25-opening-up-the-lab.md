@@ -3,7 +3,7 @@ layout: post
 author: Tom
 title: "Opening up the lab"
 ---
-The Interdisciplinary Publishing Lab is a space for students across the Schools of Art & Design and Creative & Cultural Industries to make free use of, to explore all kinds of publishing from printed books and pamphlets to digital technologies. We provide:
+The Interdisciplinary Publishing Lab is a space for students across the Schools of Art & Design and Creative & Cultural Industries to make free use of, to explore all kinds of publishing from printed books and pamphlets to digital technologies. We provide...
 
 - Space to explore and make
 - Materials and resources
