@@ -15,3 +15,5 @@ Want to see what that might look like?
 We’re launching in late summer.
  
 Sign up to find out more.
+
+<script async data-uid="14bfbe5fad" src="https://publishing-lab.kit.com/14bfbe5fad/index.js"></script>
