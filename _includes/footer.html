@@ -8,7 +8,13 @@
 
 <script async data-uid="14bfbe5fad" src="https://publishing-lab.kit.com/14bfbe5fad/index.js"></script>
         
-        <p class="feed-subscribe">
+      
+      </div>
+      <div class="footer-col">
+        <p>{{ site.description | escape }}</p>
+        <p>{{ site.address | escape }}</p>
+
+  <p class="feed-subscribe">
           <a href="{{ 'feed.xml' | relative_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
@@ -28,10 +34,9 @@
           {%- endif %}
         </ul>
       {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-        <p>{{ site.address | escape }}</p>
+
+
+        
       </div>
     </div>
 
