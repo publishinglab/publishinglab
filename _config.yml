@@ -1,8 +1,8 @@
-title: Interdisciplinary Publishing Lab
+title: Publishing Lab
 author:
   name:  
   email:  
-address: Interdisciplinary Publishing Lab, UWE Bristol, Bower Ashton Campus OC002, Kennel Lodge Road. Bristol, BS3 2JT.
+address: Publishing Lab, 22 The Portway Centre, Spitfire Road, Old Sarum, Wiltshire, SP4 6EB.
 description: > # this means to ignore newlines until "show_excerpts:"
   Dedicated to exploring publishing from conventional print through to XR and beyond. 
   
@@ -21,7 +21,7 @@ minima:
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: uwepublishinglab
+    # instagram: uwepublishinglab
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
