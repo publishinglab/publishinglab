@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, World"
+title: "trailer"
 ---
 Have you ever wondered what a publishing skunkworks might look like?
  
